@@ -43,6 +43,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yMagWebDev](https://www.frontendmentor.io/profile/MagWebDev)
+- Frontend Mentor - [@MagWebDev](https://www.frontendmentor.io/profile/MagWebDev)
 
 
